@@ -71,7 +71,7 @@ section {
 h2 {
   margin: 0 0 0.6rem;
   font-size: 1.3rem;
-  color: var(--accent);
+  color: #FFE3F7;
   padding-bottom: 0.3rem;
   border-bottom: 3px solid var(--accent);
 }
