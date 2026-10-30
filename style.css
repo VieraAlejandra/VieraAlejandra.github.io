@@ -74,6 +74,7 @@ h2 {
   color: #E88BCB;
   padding-bottom: 0.3rem;
   border-bottom: 3px solid var(--accent);
+   text-align: center;
 }
 
 a { color: var(--accent); }
