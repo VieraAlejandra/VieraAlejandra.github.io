@@ -3,7 +3,7 @@
    Colors can be names (teal) or hex codes (#1f6f8b).
    ============================================================ */
 :root {
-  --accent: #pink;       /* headings, links, the line under headings */
+  --accent: #FFE3F7;       /* headings, links, the line under headings */
   --text: #1d2730;         /* main text color */
   --background: #FFE3F7;   /* page background */
   --card: #FFE3F7;         /* background behind each section */
