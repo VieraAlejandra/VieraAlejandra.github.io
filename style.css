@@ -5,7 +5,7 @@
 :root {
   --accent: #1f6f8b;       /* headings, links, the line under headings */
   --text: #1d2730;         /* main text color */
-  --background: #FFE3F7;   /* page background */
+  --background: #pink;   /* page background */
   --card: #FFE3F7;         /* background behind each section */
   --font: "Segoe UI", Helvetica, Arial, sans-serif;
 }
@@ -71,7 +71,7 @@ section {
 h2 {
   margin: 0 0 0.6rem;
   font-size: 1.3rem;
-  color: #FFE3F7;
+  color: #pink;
   padding-bottom: 0.3rem;
   border-bottom: 3px solid var(--accent);
 }
